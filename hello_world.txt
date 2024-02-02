@@ -1,0 +1,2 @@
+This is just some ramble written to test the functioning of git and github.
+Lets learn and code!
